@@ -3,7 +3,7 @@
 <p align="center">
 🎓 Computer Science Student @ University of Alberta  
 <br>
-💻 Python · Web Development · Cybersecurity  
+💻 Python · Java· C++ · C# · SQL· Backend Development · Cybersecurity  
 <br>
 📍 Edmonton, AB, CA
 </p>
