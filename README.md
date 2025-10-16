@@ -12,4 +12,3 @@
 
 ---
 
-<p align="center">⭐ From <a href="https://github.com/yuximing">yuximing</a></p>
