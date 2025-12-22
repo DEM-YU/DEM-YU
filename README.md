@@ -1,12 +1,12 @@
 # Hi there, I'm Brooks 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Brooks%20@%20UAlberta&fontSize=70" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20World!%20I'm%20Brooks&fontSize=60" width="100%" />
 </div>
 
 ## 💫 关于我 (About Me)
 - 🎓 **背景**：阿尔伯塔大学 (University of Alberta) 计算机科学专业在读
-- 🔭 **目前正专注于**：基于 Python 的数据处理与 Web 开发
+- 🔭 **目前专注于**：基于 Python 的数据处理与 Web 开发
 - 📊 **学术兴趣**：对统计学 (Statistics) 及微集成 (Micro-integration) 课题有深入钻研
 - 🌱 **正在学习**：Next.js, Go, LLM, Python, C#, JAVA
 - 💬 **找我聊聊**：关于算法、数据科学或是 CS 学习的心得
@@ -20,6 +20,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=py,js,cpp,java,html,css,cs" />
 </p>
+
 ### 🧰 框架与工具 (Frameworks & Tools)
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,git,github,vscode,docker,postman,stats" />
@@ -27,7 +28,7 @@
 
 ---
 
-## 📊 GitHub 统计 (My Stats)
+## 📊 数据统计 (GitHub Stats)
 
 <div align="center">
   <table border="0">
@@ -42,9 +43,7 @@
   </table>
 </div>
 
----
-
-## 📈 活动趋势 (Activity Graph)
+### 📈 活动趋势 (Activity Graph)
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEM-YU&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" />
 </p>
@@ -63,7 +62,5 @@
 
 ---
 <p align="center">
-  <img src="https://profile-counter.glitch.me/DEM-YU/count.svg" alt="Visitor Count" />
-  <br>
   <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </p>
