@@ -1,15 +1,16 @@
 # Hi there, I'm Brooks 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=70" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Brooks%20@%20UAlberta&fontSize=70" width="100%" />
 </div>
 
 ## 💫 关于我 (About Me)
-- 🎓 **背景**：计算机科学专业在读 (CS Student)
-- 🔭 **目前正专注于**：[Web开发 / 机器学习]
-- 🌱 **正在学习**：[Next.js, Go, LLM, Python, C#, JAVA]
-- 💬 **找我聊聊**：技术细节、开源项目或者各种有趣的想法
-- ⚡ **兴趣**：🎮 游戏 / 🏃 运动 / 📸 摄影
+- 🎓 **背景**：阿尔伯塔大学 (University of Alberta) 计算机科学专业在读
+- 🔭 **目前正专注于**：基于 Python 的数据处理与 Web 开发
+- 📊 **学术兴趣**：对统计学 (Statistics) 及微集成 (Micro-integration) 课题有深入钻研
+- 🌱 **正在学习**：Next.js, Go, LLM, Python, C#, JAVA
+- 💬 **找我聊聊**：关于算法、数据科学或是 CS 学习的心得
+- ⚡ **兴趣**：🎮 游戏 (CS2) / 🏃 运动 / 📸 摄影
 
 ---
 
@@ -17,12 +18,11 @@
 
 ### 💻 编程语言 (Languages)
 <p>
-  <img src="https://skillicons.dev/icons?i=py,js,cpp,java,html,css" />
+  <img src="https://skillicons.dev/icons?i=py,js,cpp,java,html,css,cs" />
 </p>
-
 ### 🧰 框架与工具 (Frameworks & Tools)
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,git,github,vscode,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,git,github,vscode,docker,postman,stats" />
 </p>
 
 ---
@@ -40,19 +40,14 @@
       </td>
     </tr>
   </table>
-  
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEM-YU&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🐍 贡献记录 (Contribution Snake)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DEM-YU/DEM-YU/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+## 📈 活动趋势 (Activity Graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEM-YU&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" />
+</p>
 
 ---
 
@@ -68,5 +63,7 @@
 
 ---
 <p align="center">
+  <img src="https://profile-counter.glitch.me/DEM-YU/count.svg" alt="Visitor Count" />
+  <br>
   <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </p>
