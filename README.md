@@ -20,6 +20,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=py,js,cpp,java,html,css,cs" />
 </p>
+
 ### 🧰 Frameworks & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,git,github,vscode,docker,postman,stats" />
@@ -32,11 +33,11 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=DEM-YU&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" height="150" />
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=DEM-YU&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEM-YU&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" height="150" />
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEM-YU&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top Langs" height="170" />
       </td>
     </tr>
   </table>
