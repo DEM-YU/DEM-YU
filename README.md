@@ -10,7 +10,7 @@
 - 📊 **Academic Interests**: Passionate about Statistics and Micro-integration topics
 - 🌱 **Learning**: Next.js, Go, LLM, Python, C#, and Java
 - 💬 **Ask me about**: Algorithms, Data Science, or CS study tips
-- ⚡ **Hobbies**: 🎮 Gaming (CS2) / 🏃 Sports 
+- ⚡ **Hobbies**: 🎮 Gaming / 🏃 Sports 
 
 ---
 
