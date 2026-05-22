@@ -1,67 +1,44 @@
-# Hi there, I'm Brooks 👋
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20World!%20I'm%20Brooks&fontSize=60" width="100%" />
+  <h1>Hi, I'm Brooks (Ximing Yu) 👋</h1>
+  <p><em>CS Honors @ UAlberta '29 | Software Development Intern</em></p>
+  
+  <a href="mailto:especiallymaymars@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/brooks-yu-669403383/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
-## 💫 About Me
-- 🎓 **Background**: Computer Science student at the University of Alberta
-- 🔭 **Current Focus**: Python-based data processing and Web development
-- 📊 **Academic Interests**: Passionate about Statistics and Micro-integration topics
-- 🌱 **Learning**: Next.js, Go, LLM, Python, C#, and Java
-- 💬 **Ask me about**: Algorithms, Data Science, or CS study tips
-- ⚡ **Hobbies**: 🎮 Gaming / 🏃 Sports 
+<br/>
 
----
+## 👨‍💻 About Me
+
+I'm a Computer Science Honors student at the University of Alberta, currently working as a Software Development Intern. I enjoy diving into backend architecture, system-level programming, and data processing.
+
+- 🎓 **Education:** BSc CS Honors, University of Alberta (Class of 2029)
+- 💼 **Current:** Software Development Intern @ Shanghai Ewell Software
+- 🌱 **Exploring:** Go, Next.js, LLM integrations, and building robust backend systems
+- 🎯 **Focus:** System architecture, micro-integration, and algorithms
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=py,js,cpp,java,html,css,cs" />
-</p>
-### 🧰 Frameworks & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,git,github,vscode,docker,postman,stats" />
-</p>
+*   **Languages:** Python, Java, C++, C#, JavaScript/TypeScript, Go
+*   **Frameworks & Tools:** React, Next.js, Node.js, Docker, Git, Postman
+*   **Domains:** Data Science, Backend Development, Statistics
 
----
+## ⚡ Beyond the Screen
 
-## 📊 GitHub Stats
+When I'm not coding, you can probably find me:
+*   🛫 Tracking transpacific flights or flying a Boeing 787-10 in Microsoft Flight Simulator
+*   ⌨️ Modding 75% aluminum mechanical keyboards for the perfect thock
+*   📸 Exploring concert videography with my DJI Action 5
+*   🎮 Analyzing procedural generation and numerical scaling in Roguelike games
+
+<br/>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=DEM-YU&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" height="150" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEM-YU&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" height="150" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=DEM-YU&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEM-YU&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150" />
 </div>
 
----
-
-## 📈 Activity Trend
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEM-YU&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" />
-</p>
-
----
-
-## 📫 Connect with me
-<p align="left">
-<a href="mailto:especiallymaymars@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/brooks-yu-669403383/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</p>
-
----
-<p align="center">
+<div align="center">
+  <br/>
   <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</p>
+</div>
