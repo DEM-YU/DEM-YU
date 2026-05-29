@@ -8,7 +8,7 @@
 ## 💫 About Me
 
 - 🎓 **Education:** Second-year BSc Computer Science Honors, University of Alberta (Class of 2029)
-- 💼 **Experience:** Software Development Intern @ Evision (Chongqing Zhonglian Group)
+- 💼 **Experience:** Software Development Intern
 - 🔭 **Current Focus:** Python-based data processing, Web development, Micro-integration, C, and SQL
 - 🌱 **Exploring:** Go, Next.js, LLM applications
 - 📊 **Interests:** Backend Architecture, Database Optimization, and Low-level Programming
