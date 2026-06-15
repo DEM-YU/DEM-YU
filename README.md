@@ -1,23 +1,24 @@
-<div align="center">
-  <h1>Hi, I'm Brooks 👋</h1>
-  <p><em>Computer Science Honors @ UAlberta </em></p>
-</div>
+# Hi there, I'm Brooks 👋
 
-<br/>
+I'm a Computing Science student at the **University of Alberta** and previously worked as a **Software Development Intern**. I enjoy building functional backends and diving into how things work under the hood.
 
-## 💫 About Me
+🌱 **Current Focus:** Solidifying backend architecture and computer system fundamentals.
 
-- 🎓 **Education:** Second-year BSc Computer Science Honors, University of Alberta (Class of 2029)
-- 💼 **Experience:** Software Development Intern
-- 🔭 **Current Focus:** Python-based data processing, Web development, Micro-integration, C, and SQL
-- 🌱 **Exploring:** Go, Next.js, LLM applications
-- 📊 **Interests:** Backend Architecture, Database Optimization, and Low-level Programming
+---
 
-## 🛠️ Tech Stack
+### 🛠 Tech Stack & Tools
 
-- **Languages:** Python, C, SQL, Go, JavaScript/TypeScript, Java, C#
-- **Frameworks:** Next.js, React, Node.js
-- **Tools & Infra:** Git, Docker, Postman
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,mysql,postgres,redis,fastapi,docker,apple,windows&theme=dark" alt="My Skills" />
+  </a>
+</p>
 
-<br/>
+---
 
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=DEM-YU&show_icons=true&hide_border=true&hide_rank=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEM-YU&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="192px"/>
+</p>
