@@ -1,14 +1,9 @@
-# Hi there, I'm Brooks 👋
+## Brooks Yu
 
-```c
-typedef struct {
-    char* name;
-    char* university;
-    char* focus;
-} Developer;
+Computing Science @ **University of Alberta**
 
-Developer brooks = {
-    .name = "Brooks Yu",
-    .university = "University of Alberta",
-    .focus = "High-Concurrency Backend Architecture & Systems"
-};
+Focusing on backend systems, high concurrency, and low-level engineering.
+
+- **Languages & Frameworks:** C, Python, FastAPI, SQL, Bash
+- **Data & Infrastructure:** PostgreSQL, Redis, Linux, Docker, Git
+- **Interests:** High-concurrency architectures, system internals, distributed systems
