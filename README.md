@@ -1,6 +1,6 @@
 # Hi there, I'm Brooks 👋
 
-I'm a Computing Science student at the **University of Alberta** and previously worked as a **Software Development Intern**. I enjoy building functional backends and diving into how things work under the hood.
+I'm a Computing Science student at the **University of Alberta**. I enjoy building functional backends and diving into how things work under the hood.
 
 🌱 **Current Focus:** Solidifying backend architecture and computer system fundamentals.
 
